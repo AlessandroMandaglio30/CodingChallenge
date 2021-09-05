@@ -1,0 +1,92 @@
+body {
+  background-image: url("img/background.jpg");
+  height: 760px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sfondo{
+  background:rgba(0,0,0,0.5);
+  margin: auto;
+  width: 60%;
+}
+
+.conteiner{
+  width: 700px;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.Logo{
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.logo-text{
+  font-size: 30px;
+  text-align: center;
+  color: #00ea38;
+}
+
+nav{
+  text-align: center;
+  background-color: #00ea38;
+  padding: 5px;
+}
+
+.Monopattino{
+  font-size: 25px;
+  color: white;
+}
+.via{
+  color:white;
+}
+.stato{
+  color:white;
+}
+.row-left{
+  border: 1px;
+  background-color: orange;
+  background-size: 70%;
+  padding:0.3%;
+  padding-right: 30%;
+  border-radius: 10px;
+}
+.Monopattino1{
+  font-size: 25px;
+  color: white;
+}
+.via1{
+  color:white;
+}
+.stato1{
+  color:white;
+}
+.row-left1{
+  border: 1px;
+  background-color: green;
+  background-size: 70%;
+  padding:0.3%;
+  padding-right: 50%;
+  border-radius: 10px;
+}
+.Monopattino2{
+  font-size: 25px;
+  color: white;
+}
+.via2{
+  color:white;
+}
+.stato2{
+  color: white;
+}
+.row-left2{
+  border: 1px;
+  background-color: red;
+  background-size: 70%;
+  padding:0.3%;
+  padding-right: 20%;
+  border-radius: 10px;
+}
